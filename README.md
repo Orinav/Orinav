@@ -2,11 +2,7 @@
 
 ### Computer Science student from Israel
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Orinav&label=Profile views&color=0e75b6&style=flat" alt="Orinav" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Orinav" alt="Orinav" /></a> </p>
-
-- 📄 Know about my experiences **[https://drive.google.com/drive/u/0/folders/1s7CS31vAva5_bYObkqkU8C0oquzYt28z](https://drive.google.com/drive/u/0/folders/1s7CS31vAva5_bYObkqkU8C0oquzYt28z)**
+- 📄 CV **[https://drive.google.com/drive/u/0/folders/1s7CS31vAva5_bYObkqkU8C0oquzYt28z](https://drive.google.com/drive/u/0/folders/1s7CS31vAva5_bYObkqkU8C0oquzYt28z)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,6 +18,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Orinav&show_icons=true&locale=en&layout=compact" alt="Orinav" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Orinav&show_icons=true&locale=en" alt="Orinav" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Orinav&" alt="Orinav" /></p>
 
