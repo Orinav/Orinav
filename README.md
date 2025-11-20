@@ -2,7 +2,7 @@
 
 ### Computer Science student from Israel
 
-- 📄 CV **[https://drive.google.com/drive/u/0/folders/1s7CS31vAva5_bYObkqkU8C0oquzYt28z](https://drive.google.com/drive/u/0/folders/1s7CS31vAva5_bYObkqkU8C0oquzYt28z)**
+- 📄 CV - **[https://drive.google.com/drive/u/0/folders/1s7CS31vAva5_bYObkqkU8C0oquzYt28z](https://drive.google.com/drive/u/0/folders/1s7CS31vAva5_bYObkqkU8C0oquzYt28z)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
